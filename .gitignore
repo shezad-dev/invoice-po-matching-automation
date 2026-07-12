@@ -1,0 +1,8 @@
+*.pdf
+*.csv
+*.txt
+__pycache__/
+*.pyc
+match_report.pdf
+pos.csv
+.DS_Store
